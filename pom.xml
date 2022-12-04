@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.aston</groupId>
-    <artifactId>Aston-Hibernate-Homework</artifactId>
-    <version>2</version>
+    <artifactId>aston-jenkins-homework</artifactId>
+    <version>1</version>
     <packaging>war</packaging>
 
     <properties>
@@ -64,7 +64,7 @@
 
     </dependencies>
     <build>
-        <finalName>aston-app1</finalName>
+        <finalName>hello</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
